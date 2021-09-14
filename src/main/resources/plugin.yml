@@ -1,0 +1,8 @@
+name: LocationDisplay
+version: '${project.version}'
+main: com.mk7a.locationdisplay.LocationDisplayPlugin
+api-version: 1.17
+authors: [ mk7a ]
+description: Bossbar/Actionbar location display
+website: mk7a.com
+
